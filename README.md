@@ -14,16 +14,16 @@ Lightweight and simple to use.
 # Setup
 - Clone the repository:
   
-# bash
+bash
 git clone https://github.com/yourusername/wallpaper-downloader.git
 
 # Navigate to the project directory:
 
-# bash
+bash
 cd wallpaper-downloader
 
 # Usage
 Run the script with the following command:
 
-# bash
+bash
 python MKBHD Wallpaper Extractor.py
