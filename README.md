@@ -13,13 +13,11 @@ Lightweight and simple to use.
 
 # Setup
 - Clone the repository:
-  
-bash
+
 git clone https://github.com/yourusername/wallpaper-downloader.git
 
 # Navigate to the project directory:
 
-bash
 cd wallpaper-downloader
 
 # Usage
